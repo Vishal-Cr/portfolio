@@ -1,0 +1,21 @@
+{
+  "name": "my-personal-portfolio",
+  "version": "1.0.0",
+  "description": "this is my personal porfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "projects",
+    "web",
+    "developer"
+  ],
+  "author": "vishal anthony",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.42.1"
+  }
+}
